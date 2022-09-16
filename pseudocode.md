@@ -37,4 +37,6 @@ class ball
     collisionDetect
 
 loop
-
+    draw ball
+    move ball
+    collision detect 
